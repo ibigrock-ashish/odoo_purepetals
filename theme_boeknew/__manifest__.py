@@ -20,11 +20,11 @@
 #
 #############################################################################
 {
-    'name': 'Theme Boec',
+    'name': 'Theme Boeknew',
     'version': '18.0',
     'category': 'Theme/eCommerce',
-    'summary': "Theme Boec is an attractive and modern eCommerce Website theme",
-    'description': "Theme Boec is new kind of Theme.The theme is very "
+    'summary': "Theme Boeknew is an attractive and modern eCommerce Website theme",
+    'description': "Theme Boeknew is new kind of Theme.The theme is very "
                    "user-friendly and suitable for your eCommerce website "
                    "with blog",
     'author': 'Cybrosys Techno Solutions',
